@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student at Xidian University, and my research focuses primarily on federated learning and model poisoning attacks.
+My name is Wenqiang Xiong. I am a graduate student at Xidian University, and my research focuses primarily on federated learning and model poisoning attacks.
